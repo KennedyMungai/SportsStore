@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "SportsSln\\SportsStore"
+		},
+		{
+			"path": "SportsSln\\SportsStore.Tests"
 		}
 	]
 }
