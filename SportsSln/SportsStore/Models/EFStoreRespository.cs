@@ -4,7 +4,7 @@ public class EFStoreRepository : IStoreRepository
 {
     private StoreDbContext context;
 
-    public EFStoreRespository(StoreDbContext ctx)
+    public EFStoreRepository(StoreDbContext ctx)
     {
         context = ctx;
     }
