@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/BvLBw+lOdWZZ8zoqVBESI7EQub2yy/tmKlfrVH+Vj2mV0UTX59TfaoqsddDPViZ0bjgXGBIG83m+ljBSYRiow==",
+  "dgSpecHash": "NLNIMnib3zWuzD8AgV4TV5a7CzuoiOy43XDkRD0hdEIl6c4dhYasJuHLloG4MjOamU80EdiJQ8lrSYtjqVJu7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\HannibalBarca\\Documents\\ASP .NET\\SportsSln\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\HannibalBarca\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.4\\microsoft.entityframeworkcore.design.6.0.4.nupkg.sha512",
     "C:\\Users\\HannibalBarca\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.4\\microsoft.entityframeworkcore.relational.6.0.4.nupkg.sha512",
     "C:\\Users\\HannibalBarca\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.4\\microsoft.entityframeworkcore.sqlserver.6.0.4.nupkg.sha512",
+    "C:\\Users\\HannibalBarca\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.4\\microsoft.entityframeworkcore.tools.6.0.4.nupkg.sha512",
     "C:\\Users\\HannibalBarca\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\HannibalBarca\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\HannibalBarca\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
