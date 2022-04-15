@@ -57,3 +57,5 @@ C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore\bin\Debug\net6.0
 C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore\obj\Debug\net6.0\SportsStore.csproj.CopyComplete
 C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore\bin\Debug\net6.0\Humanizer.dll
 C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore\bin\Debug\net6.0\libman.json
+C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore\bin\Debug\net6.0\SportsStore.staticwebassets.runtime.json

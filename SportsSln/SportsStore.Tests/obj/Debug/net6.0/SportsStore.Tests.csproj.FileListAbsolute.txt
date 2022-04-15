@@ -140,3 +140,5 @@ C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore.Tests\obj\Debug\
 C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.pdb
 C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.genruntimeconfig.cache
 C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore.Tests\obj\Debug\net6.0\ref\SportsStore.Tests.dll
+C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore.Tests\bin\Debug\net6.0\libman.json
+C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore.Tests\bin\Debug\net6.0\SportsStore.staticwebassets.runtime.json
