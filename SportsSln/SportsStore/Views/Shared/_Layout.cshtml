@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="styles" href="~/lib/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
 
     <title>SportsStore</title>
 </head>
@@ -13,7 +14,14 @@
 <body>
     <div>
         <div class="bg-dark text-white p-2">
-            <span class="ml-2 navbar-brand">SPORTS STORE</span>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col navbar-brand">SPORTS STORE</div>
+                    <div class="col-6 navbar-text text-end">
+                        <vc:cart-summary />
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="m-1 p-1 row">
             <div class="col-3" id="categories">
