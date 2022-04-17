@@ -15,8 +15,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/HannibalBarca/Documents/ASP .NET/SportsSln/SportsStore/Pages/Admin/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cX0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HannibalBarca/Documents/ASP .NET/SportsSln/SportsStore/Pages/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/HannibalBarca/Documents/ASP .NET/SportsSln/SportsStore/Pages/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HannibalBarca/Documents/ASP .NET/SportsSln/SportsStore/Pages/Completed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGxldGVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HannibalBarca/Documents/ASP .NET/SportsSln/SportsStore/Pages/_CartLayout.cshtml]
