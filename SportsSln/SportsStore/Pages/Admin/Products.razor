@@ -1,4 +1,65 @@
 @page "/admin/products"
 @page "/admin"
+@inherits OwningComponentBase<IStoreRepository>
 
-<h4>This is the products component</h4>
+<table class="table table-sm table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(ProductData?.Count() > 0)
+        {
+            foreach(Product p in ProductData)
+            {
+                <tr>
+                    <td>@p.ProductID</td>
+                    <td>@p.Name</td>
+                    <td>@p.Category</td>
+                    <td>@p.Price.ToString("c")</td>
+                    <td>
+                        <NavLink href="@GetDetailsUrl(p.ProductID ?? 0)" class="btn btn-info btn-sm">
+                            Details
+                        </NavLink>
+                        <NavLink href="@GetEditUrl(p.ProductID ?? 0)" class="btn btn-warning btn-sm">
+                            Edit
+                        </NavLink>
+                        <button class="btm btn-sm btn-danger" @onclick="@(e => DeleteProduct(p))">
+                            Delete
+                        </button>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+<NavLink href="/admin/products/create" class="btn btn-primary">Create</NavLink>
+
+@code{
+    public IStoreRepository Repository => Service;
+    public IEnumerable<Product> ProductData {get; set;} = Enumerable.Empty<Product>();
+
+    protected async override Task OnInitializedAsync()
+    {
+        await UpdateData();
+    }
+
+    public async Task UpdateData()
+    {
+        ProductData = await Repository.Products.ToListAsync();
+    }
+
+    public async Task DeleteProduct(Product p)
+    {
+        Repository.DeleteProduct(p);
+        await UpdateData();
+    }
+
+    public string GetDetailsUrl(long id) => $"/admin/products/details/{id}";
+    public string GetEditUrl(long id) => $"/admin/products/edit/{id}";
+}
