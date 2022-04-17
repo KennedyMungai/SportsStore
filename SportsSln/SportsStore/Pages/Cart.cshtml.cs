@@ -34,7 +34,7 @@ namespace SportsStore.Pages
             if (product != null)
             {
                 //Cart = HttpContext.Session.GetJson<Cart>("cart") ?? new Cart();
-                Cart.AddItem(product, 1);
+                Cart?.AddItem(product, 1);
                 //HttpContext.Session.SetJson("cart", Cart);
             }
 

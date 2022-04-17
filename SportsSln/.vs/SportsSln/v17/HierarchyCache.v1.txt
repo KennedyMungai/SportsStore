@@ -1,0 +1,585 @@
+﻿++Solution 'SportsSln' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:SportsSln.sln
+++SportsStore.Tests
+i:{00000000-0000-0000-0000-000000000000}:SportsStore.Tests
+++Dependencies
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:>745
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:>1095
+++HomeControllerTests.cs
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore.tests\homecontrollertests.cs
+++Analyzers
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:analyzers
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:analyzers
+++Frameworks
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:frameworks
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:frameworks
+++Packages
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:packages
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:packages
+++Projects
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:projects
+++Microsoft.AspNetCore.App.Analyzers
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:c:\users\hannibalbarca\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++xunit.analyzers
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:c:\users\hannibalbarca\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++Microsoft.NETCore.App
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore.tests\microsoft.netcore.app
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\microsoft.netcore.app
+++coverlet.collector (3.1.0)
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:>1134
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:>1130
+++Moq (4.17.2)
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:>1133
+++xunit (2.4.1)
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:>1131
+++xunit.runner.visualstudio (2.4.3)
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:>1132
+++SportsStore
+i:{5c24510b-cd13-49f9-bfff-069b09a1724f}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\bin\debug\net6.0\sportsstore.dll
+i:{00000000-0000-0000-0000-000000000000}:SportsStore
+++Connected Services 
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:>1096
+++Properties
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\properties\
+++wwwroot
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\
+++Components
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\components\
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\shared\components\
+++CartSummaryViewComponent.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\components\cartsummaryviewcomponent.cs
+++NavigationMenuViewComponent.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\components\navigationmenuviewcomponent.cs
+++Controllers
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\controllers\
+++HomeController.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\controllers\homecontroller.cs
+++OrderController.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\controllers\ordercontroller.cs
+++Infrastructure
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\infrastructure\
+++PageLinkTagHelper.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\infrastructure\pagelinktaghelper.cs
+++SessionExtensions.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\infrastructure\sessionextensions.cs
+++UrlExtensions.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\infrastructure\urlextensions.cs
+++Migrations
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\migrations\
+++20220415092812_Initial.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\migrations\20220415092812_initial.cs
+++20220417065150_Orders.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\migrations\20220417065150_orders.cs
+++20220417075017_ShippedOrders.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\migrations\20220417075017_shippedorders.cs
+++StoreDbContextModelSnapshot.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\migrations\storedbcontextmodelsnapshot.cs
+++Models
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\
+++ViewModel
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\viewmodel\
+++PagingInfo.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\viewmodel\paginginfo.cs
+++ProductsListViewModel.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\viewmodel\productslistviewmodel.cs
+++Cart.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\cart.cs
+++CartLine.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\cartline.cs
+++EFOrderRepository.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\eforderrepository.cs
+++EFStoreRespository.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\efstorerespository.cs
+++IOrderRepository.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\iorderrepository.cs
+++IStoreRepository.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\istorerepository.cs
+++Order.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\order.cs
+++Product.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\product.cs
+++SeedData.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\seeddata.cs
+++SessionCart.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\sessioncart.cs
+++StoreDbContext.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\models\storedbcontext.cs
+++Pages
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\
+++Admin
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\admin\
+++_Imports.razor
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\admin\_imports.razor
+++AdminLayout.razor
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\admin\adminlayout.razor
+++Index.cshtml
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\admin\index.cshtml
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\home\index.cshtml
+++Orders.razor
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\admin\orders.razor
+++OrderTable.razor
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\admin\ordertable.razor
+++Products.razor
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\admin\products.razor
+++Routed.razor
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\admin\routed.razor
+++_CartLayout.cshtml
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\_cartlayout.cshtml
+++_ViewImports.cshtml
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\_viewimports.cshtml
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\shared\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\_viewstart.cshtml
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\shared\_viewstart.cshtml
+++Cart.cshtml
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\cart.cshtml
+++Completed.cshtml
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\completed.cshtml
+++Views
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\
+++Home
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\home\
+++Order
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\order\
+++Checkout.cshtml
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\order\checkout.cshtml
+++Shared
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\shared\
+++CartSummary
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\shared\components\cartsummary\
+++Default.cshtml
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\shared\components\cartsummary\default.cshtml
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\shared\components\navigationmenu\default.cshtml
+++NavigationMenu
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\shared\components\navigationmenu\
+++_Layout.cshtml
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\shared\_layout.cshtml
+++ProductSummary.cshtml
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\views\shared\productsummary.cshtml
+++appsettings.json
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\appsettings.json
+++global.json
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\global.json
+++libman.json
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\libman.json
+++Program.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\program.cs
+++No service dependencies discovered
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:>1097
+++launchSettings.json
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\properties\launchsettings.json
+++lib
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\
+++20220415092812_Initial.Designer.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\migrations\20220415092812_initial.designer.cs
+++20220417065150_Orders.Designer.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\migrations\20220417065150_orders.designer.cs
+++20220417075017_ShippedOrders.Designer.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\migrations\20220417075017_shippedorders.designer.cs
+++Cart.cshtml.cs
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\cart.cshtml.cs
+++appsettings.Development.json
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\microsoft.aspnetcore.app
+++Microsoft.EntityFrameworkCore.Design (6.0.4)
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:>1116
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.4)
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:>1115
+++Microsoft.EntityFrameworkCore.Tools (6.0.4)
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:>1117
+++bootstrap
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\
+++font-awesome
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\
+++css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\
+++js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\js\
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\
+++scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\
+++sprites
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\sprites\
+++webfonts
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\webfonts\
+++bootstrap.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap.css
+++bootstrap-grid.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-utilities.css
+++bootstrap.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\js\bootstrap.js
+++forms
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\forms\
+++helpers
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\helpers\
+++mixins
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\
+++utilities
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\utilities\
+++vendor
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\vendor\
+++_accordion.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_accordion.scss
+++_alert.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_alert.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_alert.scss
+++_badge.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_badge.scss
+++_breadcrumb.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_breadcrumb.scss
+++_button-group.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_button-group.scss
+++_buttons.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_buttons.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_buttons.scss
+++_card.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_card.scss
+++_carousel.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_carousel.scss
+++_close.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_close.scss
+++_containers.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_containers.scss
+++_dropdown.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_dropdown.scss
+++_forms.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_forms.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_forms.scss
+++_functions.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_functions.scss
+++_grid.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_grid.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_grid.scss
+++_helpers.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_helpers.scss
+++_images.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_images.scss
+++_list-group.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_list-group.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_list-group.scss
+++_mixins.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_mixins.scss
+++_modal.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_modal.scss
+++_nav.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_nav.scss
+++_navbar.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_navbar.scss
+++_offcanvas.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_offcanvas.scss
+++_pagination.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_pagination.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_pagination.scss
+++_placeholders.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_placeholders.scss
+++_popover.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_popover.scss
+++_progress.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_progress.scss
+++_reboot.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_reboot.scss
+++_root.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_root.scss
+++_spinners.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_spinners.scss
+++_tables.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_tables.scss
+++_toasts.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_toasts.scss
+++_tooltip.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_tooltip.scss
+++_transitions.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_transitions.scss
+++_type.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_type.scss
+++_utilities.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_utilities.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_utilities.scss
+++_variables.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\_variables.scss
+++bootstrap.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\bootstrap.scss
+++bootstrap-grid.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\bootstrap-grid.scss
+++bootstrap-reboot.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\bootstrap-reboot.scss
+++bootstrap-utilities.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\bootstrap-utilities.scss
+++all.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\all.css
+++brands.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\brands.css
+++fontawesome.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\fontawesome.css
+++regular.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\regular.css
+++solid.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\solid.css
+++svg-with-js.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\svg-with-js.css
+++v4-font-face.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\v4-font-face.css
+++v4-shims.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\v4-shims.css
+++v5-font-face.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\v5-font-face.css
+++all.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\all.js
+++brands.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\brands.js
+++conflict-detection.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\conflict-detection.js
+++fontawesome.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\fontawesome.js
+++regular.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\regular.js
+++solid.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\solid.js
+++v4-shims.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\v4-shims.js
+++brands.svg
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\sprites\brands.svg
+++regular.svg
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\sprites\regular.svg
+++solid.svg
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\sprites\solid.svg
+++fa-brands-400.ttf
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\webfonts\fa-brands-400.ttf
+++fa-brands-400.woff2
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\webfonts\fa-brands-400.woff2
+++fa-regular-400.ttf
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\webfonts\fa-regular-400.ttf
+++fa-regular-400.woff2
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\webfonts\fa-regular-400.woff2
+++fa-solid-900.ttf
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\webfonts\fa-solid-900.ttf
+++fa-solid-900.woff2
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\webfonts\fa-solid-900.woff2
+++fa-v4compatibility.ttf
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\webfonts\fa-v4compatibility.ttf
+++fa-v4compatibility.woff2
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\webfonts\fa-v4compatibility.woff2
+++bootstrap.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap.css.map
+++bootstrap.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\js\bootstrap.js.map
+++bootstrap.min.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\js\bootstrap.min.js
+++_floating-labels.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\forms\_floating-labels.scss
+++_form-check.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\forms\_form-check.scss
+++_form-control.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\forms\_form-control.scss
+++_form-range.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\forms\_form-range.scss
+++_form-select.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\forms\_form-select.scss
+++_form-text.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\forms\_form-text.scss
+++_input-group.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\forms\_input-group.scss
+++_labels.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\forms\_labels.scss
+++_validation.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\forms\_validation.scss
+++_clearfix.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\helpers\_clearfix.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_clearfix.scss
+++_colored-links.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\helpers\_colored-links.scss
+++_position.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\helpers\_position.scss
+++_ratio.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\helpers\_ratio.scss
+++_stacks.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\helpers\_stacks.scss
+++_stretched-link.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\helpers\_stretched-link.scss
+++_text-truncation.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\helpers\_text-truncation.scss
+++_visually-hidden.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\helpers\_visually-hidden.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_visually-hidden.scss
+++_vr.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\helpers\_vr.scss
+++_backdrop.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_backdrop.scss
+++_border-radius.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_border-radius.scss
+++_box-shadow.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_box-shadow.scss
+++_breakpoints.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_breakpoints.scss
+++_caret.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_caret.scss
+++_color-scheme.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_color-scheme.scss
+++_container.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_container.scss
+++_deprecate.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_deprecate.scss
+++_gradients.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_gradients.scss
+++_image.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_image.scss
+++_lists.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_lists.scss
+++_reset-text.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_reset-text.scss
+++_resize.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_resize.scss
+++_table-variants.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_table-variants.scss
+++_text-truncate.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_text-truncate.scss
+++_transition.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\mixins\_transition.scss
+++_api.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\utilities\_api.scss
+++_rfs.scss
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\scss\vendor\_rfs.scss
+++all.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\all.min.css
+++brands.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\brands.min.css
+++fontawesome.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\fontawesome.min.css
+++regular.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\regular.min.css
+++solid.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\solid.min.css
+++svg-with-js.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\svg-with-js.min.css
+++v4-font-face.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\v4-font-face.min.css
+++v4-shims.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\v4-shims.min.css
+++v5-font-face.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\css\v5-font-face.min.css
+++all.min.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\all.min.js
+++brands.min.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\brands.min.js
+++conflict-detection.min.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\conflict-detection.min.js
+++fontawesome.min.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\fontawesome.min.js
+++regular.min.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\regular.min.js
+++solid.min.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\solid.min.js
+++v4-shims.min.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\font-awesome\js\v4-shims.min.js
+++bootstrap.min.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\wwwroot\lib\bootstrap\js\bootstrap.esm.min.js.map
+++Details.razor
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\admin\details.razor
+++Editor.razor
+i:{ec355dd8-d71b-4e61-98af-570ce35c4c2e}:c:\users\hannibalbarca\documents\asp .net\sportssln\sportsstore\pages\admin\editor.razor

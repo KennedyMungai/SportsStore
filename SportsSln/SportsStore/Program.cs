@@ -1,10 +1,13 @@
 using Microsoft.EntityFrameworkCore;
 using SportsStore.Models;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<StoreDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("SportsStoreConnection")));
+builder.Services.AddDbContext<AppIdentityDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("IdentityConnection")));
+builder.Services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppIdentityDbContext>();
 builder.Services.AddScoped<IStoreRepository, EFStoreRepository>();
 builder.Services.AddScoped<IOrderRepository, EFOrderRepository>();
 
@@ -20,8 +23,24 @@ var app = builder.Build();
 
 // app.MapGet("/", () => "Hello World!");
 
+if (app.Environment.IsProduction())
+{
+    app.UseExceptionHandler("/error");
+}
+
+app.UseRequestLocalization(
+        opts =>
+        {
+            opts.AddSupportedCultures("en-US")
+                .AddSupportedUICultures("en-US")
+                .SetDefaultCulture("en-US");
+        });
+
 app.UseStaticFiles();
 app.UseSession();
+
+app.UseAuthentication();
+app.UseAuthorization();
 
 app.MapControllerRoute("catpage","{category}/Page{productPage:int}",new {Controller = "Home", action = "Index"});
 app.MapControllerRoute("page","Page{productPage:int}", new {Controller = "Home", action = "Index", productPage = 1});
@@ -36,5 +55,6 @@ app.MapFallbackToPage("/admin/{*catchall}", "/Admin/Index");
 
 
 SeedData.EnsurePopulated(app);
+IdentitySeedData.EnsurePopulated(app);
 
 app.Run();
