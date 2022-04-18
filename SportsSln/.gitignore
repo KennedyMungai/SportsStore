@@ -1,0 +1,13 @@
+*.log
+*.exe
+*.pdb
+*.dll
+*.txt
+*.cache
+*.sentinel
+*.cache
+*.sln
+*.css
+*.map
+*.js
+*.scss
