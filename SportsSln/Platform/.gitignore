@@ -5,3 +5,5 @@
 *.txt
 *.cache
 *.sentinel
+*.cache
+*.sln
