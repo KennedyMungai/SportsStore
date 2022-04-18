@@ -14,6 +14,8 @@ builder.Services.AddDbContext<DataContext>(
 
 builder.Services.AddControllers();
 
+builder.Services.AddCors();
+
 var app = builder.Build();
 
 app.MapControllers();
