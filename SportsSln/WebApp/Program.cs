@@ -12,7 +12,11 @@ builder.Services.AddDbContext<DataContext>(
     }
 );
 
+builder.Services.AddControllers();
+
 var app = builder.Build();
+
+app.MapControllers();
 
 const string BASEURL = "api/products";
 
