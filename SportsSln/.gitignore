@@ -11,3 +11,5 @@
 *.map
 *.js
 *.scss
+libman.json
+staticwebassets.*
