@@ -1,4 +1,4 @@
-using Microsoft.Extensions.Options;
+// using Microsoft.Extensions.Options;
 using Platform;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,17 +11,25 @@ builder.Services.Configure<MessageOptions>(options =>
 
 var app = builder.Build();
 
-((IApplicationBuilder)app).Map("/branch", async branch =>
-    {
-        branch.UseMiddleware<Platform.QueryStringMiddleWare>();
 
-        branch.Use(async (HttpContext context, Func<Task> next) =>
-            {
-                await context.Response.WriteAsync($"Branch Middleware");
-            }
-        );
-    }
-);
+// app.MapGet("/location", async(HttpContext context, IOptions<MessageOptions> msgOpts) =>
+//     {
+//         Platform.MessageOptions opts = msgOpts.Value;
+//         await context.Response.WriteAsync($"{opts.CityName}, {opts.CountryName}");
+//     }
+// );
+
+// ((IApplicationBuilder)app).Map("/branch", async branch =>
+//     {
+//         branch.UseMiddleware<Platform.QueryStringMiddleWare>();
+
+//         branch.Use(async (HttpContext context, Func<Task> next) =>
+//             {
+//                 await context.Response.WriteAsync($"Branch Middleware");
+//             }
+//         );
+//     }
+// );
 
 // app.Use(async (context, next) =>
 //     {
@@ -33,29 +41,31 @@ var app = builder.Build();
 //     }
 // );
 
-app.Use(async (context, next) => 
-    {
-        await next();
-        await context.Response
-            .WriteAsync($"\nStatus Code: {context.Response.StatusCode}");
-    }
-);
+// app.Use(async (context, next) => 
+//     {
+//         await next();
+//         await context.Response
+//             .WriteAsync($"\nStatus Code: {context.Response.StatusCode}");
+//     }
+// );
 
-app.Use(async (context, next) => 
-    {
-        if (context.Request.Path == "/short")
-        {
-            await context.Response
-                .WriteAsync($"Request short circuited");
-        }
-        else
-        {
-            await next();
-        }
-    }
-);
+// app.Use(async (context, next) => 
+//     {
+//         if (context.Request.Path == "/short")
+//         {
+//             await context.Response
+//                 .WriteAsync($"Request short circuited");
+//         }
+//         else
+//         {
+//             await next();
+//         }
+//     }
+// );
 
-app.UseMiddleware<Platform.QueryStringMiddleWare>();
+// app.UseMiddleware<Platform.QueryStringMiddleWare>();
+
+app.UseMiddleware<LocationMiddleware>();
 
 app.MapGet("/", () => "Hello World!");
 
