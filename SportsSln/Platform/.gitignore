@@ -1,0 +1,7 @@
+*.log
+*.exe
+*.pdb
+*.dll
+*.txt
+*.cache
+*.sentinel
