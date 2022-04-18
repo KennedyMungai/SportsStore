@@ -1,0 +1,8 @@
+C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.csproj.AssemblyReference.cache
+C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.AssemblyInfo.cs
+C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.RazorAssemblyInfo.cache
+C:\Users\HannibalBarca\Documents\ASP .NET\SportsSln\SportsStore\obj\Release\net6.0\SportsStore.RazorAssemblyInfo.cs
